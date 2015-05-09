@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="default_text_small">12sp</dimen>
+    <dimen name="default_text_middle">14sp</dimen>
+    <dimen name="default_text_big">16sp</dimen>
+    <dimen name="default_text_xbig">20sp</dimen>
+    <dimen name="default_text_xxbig">34sp</dimen>
+
+    <dimen name="default_text_button">@dimen/default_text_middle</dimen>
+    <dimen name="default_text_caption">@dimen/default_text_small</dimen>
+    <dimen name="default_text_body">@dimen/default_text_middle</dimen>
+    <dimen name="default_text_subhead">@dimen/default_text_big</dimen>
+    <dimen name="default_text_title">@dimen/default_text_xbig</dimen>
+    <dimen name="default_text_headline">24sp</dimen>
+    <dimen name="default_text_display1">34sp</dimen>
+    <dimen name="default_text_display2">45sp</dimen>
+    <dimen name="default_text_display3">56sp</dimen>
+    <dimen name="default_text_display4">112sp</dimen>
+
+    <dimen name="text_normal">@dimen/default_text_middle</dimen>
+</resources>
